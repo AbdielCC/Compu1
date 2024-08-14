@@ -1,4 +1,5 @@
 /*
+*En este programa se disena el calculo de la diagonal dentro de el cuadrado para calcular el rombo
 *@author Ulises Abdiel Cabello Cardenas
 *@version 1
 */
