@@ -1,8 +1,16 @@
+/*
+*En este programa se realiza la fecha al paso para usarlo como operacion atravres de un string
+*@author Ulises Abdiel Cabello Cardenas
+*@version 1
+*
+*/
 public class fecha{
   public static void main(String[] args) {
+    //@param fecha se introduce la fecha a usar para transformar
         String fecha = "12-02-2024";
         
         // Separar la fecha en día, mes y año usando el separador "-"
+        //@param partes se usa para definir sub arreglos de las partes de la fecha y poder separarla
         String[] partes = fecha.split("-");
         
         // Convertir cada parte de la fecha a un número entero
